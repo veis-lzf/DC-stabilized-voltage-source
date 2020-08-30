@@ -1,0 +1,33 @@
+uart1.pbi: C:\Users\12566\Desktop\STM8_Prj\Demo\Hardware\USART1\uart1.c \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\Hardware\USART1/uart1.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_clk.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc/stm8s.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\stm8s_conf.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_adc1.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_awu.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_beep.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_exti.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_flash.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_gpio.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_i2c.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_itc.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_iwdg.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_rst.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_spi.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_tim1.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_tim2.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_tim4.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_uart1.h \
+  C:\Users\12566\Desktop\STM8_Prj\Demo\STM8S_StdPeriph_Driver\inc\stm8s_wwdg.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\LIB\dlstm8smn.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\xencoding_limits.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\DLib_Threads.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\stm8\inc\c\stdarg.h
